@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Call Git Test")
+        print("Test Push")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
